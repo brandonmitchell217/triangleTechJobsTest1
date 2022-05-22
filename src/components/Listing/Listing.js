@@ -10,6 +10,12 @@ const Listing = ({
   description,
   time,
 }) => {
+  // useEffect(() => {
+  //   fetch('data.json')
+  //     .then((res) => res.json())
+  //     .then((data) => console.log(data));
+  // }, []);
+
   return (
     <div className="app__listing">
       <div className="app__listing-header">

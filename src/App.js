@@ -1,5 +1,5 @@
 import './App.css';
-import Listings from './containers/Listing/Listings';
+import Listings from './containers/Listings/Listings';
 
 function App() {
   return (

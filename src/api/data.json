@@ -1,0 +1,5 @@
+{
+  "titles": ["software engineer", "frontend developer", "backend developer"],
+  "locations": ["raleigh", "durham", "cary", "morrisville", "apex"],
+  "type": ["full-time", "part-time", "contract"]
+}
